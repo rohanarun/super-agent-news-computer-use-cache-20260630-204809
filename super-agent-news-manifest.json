@@ -1,0 +1,62 @@
+{
+  "citations": [
+    "[aimultiple.com](https://www.aimultiple.com/)",
+    "[techwireasia.com](https://techwireasia.com/)",
+    "[cloudflare.com](https://blog.cloudflare.com/)",
+    "[mit.edu](https://mitsloan.mit.edu/)",
+    "[openai.com](https://openai.com/)",
+    "[techcrunch.com](https://techcrunch.com/)"
+  ],
+  "design_plan": "rng=42; hero_lines=2.4; aida=pass; bento_density=grid-auto-flow:dense verified; label_sweep=done; button_contrast=checked",
+  "generated_at": "2026-06-30T20:48:19.904668+00:00",
+  "headline": "Computer-use cache for AI agents that run the same workflows every day",
+  "site_brief": {
+    "audience": "builders and operators who need repeated computer-use automations to get cheaper and more reliable",
+    "canonical_url": "https://app.getsupers.com/use-cases/computer-use-cache/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Computer-use cache', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "computer use cache AI agent",
+      "computer-use AI agent repeated workflows",
+      "browser automation agent cache",
+      "AI agent action trace reuse"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "computer-use-cache",
+    "title": "Computer-use cache",
+    "use_case_intent": "explain Super's computer-use cache as the reusable memory layer for repeated browser and desktop workflows"
+  },
+  "summary": "This use-case page explains how Super\u2019s computer-use cache lets builders and operators reuse real browser and desktop action traces so repeated workflows get cheaper, faster, and more reliable over time. It\u2019s an indexable, practical answer for teams comparing chat-first assistants with durable computer-using agents."
+}
